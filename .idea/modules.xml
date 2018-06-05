@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\MOB\lab4-assignment-gate-a-skeleton\app\app.iml" filepath="D:\MOB\lab4-assignment-gate-a-skeleton\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab4-assignment-gate-a-skeleton.iml" filepath="$PROJECT_DIR$/lab4-assignment-gate-a-skeleton.iml" />
+      <module fileurl="file://D:\MOB\lab4-assignment-gate-a-skeleton\laboratornaya_rabota_4-master.iml" filepath="D:\MOB\lab4-assignment-gate-a-skeleton\laboratornaya_rabota_4-master.iml" />
+    </modules>
+  </component>
+</project>
